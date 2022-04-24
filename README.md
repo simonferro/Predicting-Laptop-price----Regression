@@ -1,2 +1,2 @@
-# Predicting-Traffic---Regression
-Predicting Traffic - Regression
+# Predicting-Laptop price---Regression
+Predicting Laptop price - Regression
